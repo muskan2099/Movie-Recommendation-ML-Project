@@ -1,0 +1,2 @@
+# Movie-Recommendation-ML-Project
+The algorithm allows the user to input any movie based on the fed database and get the recommended movies as per the input at the output. The algo works on the logic of cosine similarity among various variables. The basic code of cosine similarity has also been added. The library used for this project is scikit learn library and Pandas is used as the tabular manipulation tool. 
